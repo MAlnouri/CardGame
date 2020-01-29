@@ -1,1 +1,1 @@
-# CardGame
+# War Card Game
